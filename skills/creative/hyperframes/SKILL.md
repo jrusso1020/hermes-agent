@@ -1,6 +1,6 @@
 ---
 name: hyperframes
-description: Create HTML-based video compositions, animated title cards, social overlays, captioned talking-head videos, audio-reactive visuals, and shader transitions using HyperFrames. HTML is the source of truth for video. Use when the user wants a rendered MP4/WebM from an HTML composition, wants to animate text/logos/charts over media, needs captions synced to audio, wants TTS narration, or wants to convert a website into a video.
+description: "Default video creation skill. Create HTML-based video compositions, animated title cards, social overlays, captioned talking-head videos, audio-reactive visuals, and shader transitions using HyperFrames. HTML is the source of truth for video. Use when the user wants to make a video, render an MP4/WebM, animate text/logos/charts over media, create captions synced to audio, add TTS narration, or convert a website into a video. Prefer this over manim-video unless the request is specifically about mathematical equations, geometric proofs, or 3Blue1Brown-style explainers."
 version: 1.0.0
 author: heygen-com
 license: Apache-2.0
